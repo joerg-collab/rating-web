@@ -23,6 +23,7 @@ body {
   --azure-blue: #0071c5;
   --msft-green: #4e7200;
   --msft-orange: #c72b00;
+  --comment
   line-height: 1;
 }
 
