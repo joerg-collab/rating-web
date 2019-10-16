@@ -19,6 +19,7 @@ export default {
 
 // main css
 body {
+  --comment;
   --background-color: #999;
   azure-blue: #0071c5;
   --msft-green: #4e7200;
